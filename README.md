@@ -1,6 +1,6 @@
 Repository for data and model described in
 
-Szabó P, Barthó P (2021) Decoding neurobiological spike trains using recurrent neural networks; a case study with electrophysiological auditory cortex recordings. Neural Computing and Applications (DOI link to be inserted here)
+Szabó P, Barthó P (2021) Decoding neurobiological spike trains using recurrent neural networks; a case study with electrophysiological auditory cortex recordings. Neural Computing and Applications (DOI: 10.1007/s00521-021-06589-0)
 
 structure of datasets:
 - comma separated values
